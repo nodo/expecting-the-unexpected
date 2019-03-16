@@ -3,3 +3,4 @@ spring:
     listener:
       simple:
         prefetch: 1
+        default-requeue-rejected: true
